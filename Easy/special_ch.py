@@ -21,3 +21,13 @@ while True:
     result = special_ch(user_input)
     print("Result: ",result)
     
+
+    #output
+    """Enter a word (or type q to quit): AAassSdfge
+Result:  2
+Enter a word (or type q to quit): SsNNNNnsa
+Result:  2
+Enter a word (or type q to quit): AABBbCCaCc
+Result:  3
+Enter a word (or type q to quit): q
+Goodbye!"""
